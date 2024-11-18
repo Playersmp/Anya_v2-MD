@@ -30,7 +30,7 @@ module.exports = {
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "XYUmjENfAdjRhm_A_N_Y_A_V_2_csmNT0",
+    sessionId: process.env.SESSION_ID || "X2goqYu0_A_N_Y_A_V_2_oiOhirHBA0xA",
 
     /**
      * thumbnails and medias
